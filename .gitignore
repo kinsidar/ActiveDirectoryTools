@@ -20,3 +20,4 @@ _ReSharper*
 /src/*.scmp
 /src/TestResults
 /node_modules
+/_book
