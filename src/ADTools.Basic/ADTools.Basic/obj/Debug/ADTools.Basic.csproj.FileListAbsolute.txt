@@ -1,0 +1,6 @@
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\bin\Debug\ADTools.Basic.exe.config
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\bin\Debug\ADTools.Basic.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\bin\Debug\ADTools.Basic.pdb
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\obj\Debug\ADTools.Basic.csprojResolveAssemblyReference.cache
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\obj\Debug\ADTools.Basic.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADTools.Basic\ADTools.Basic\obj\Debug\ADTools.Basic.pdb

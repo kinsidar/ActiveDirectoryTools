@@ -1,0 +1,6 @@
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\bin\Debug\ADT00.DomainInfo.exe.config
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\bin\Debug\ADT00.DomainInfo.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\bin\Debug\ADT00.DomainInfo.pdb
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\obj\Debug\ADT00.DomainInfo.csprojResolveAssemblyReference.cache
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\obj\Debug\ADT00.DomainInfo.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT00.DomainInfo\ADT00.DomainInfo\obj\Debug\ADT00.DomainInfo.pdb

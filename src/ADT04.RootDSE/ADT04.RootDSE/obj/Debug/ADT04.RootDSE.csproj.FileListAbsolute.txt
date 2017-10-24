@@ -1,0 +1,6 @@
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\bin\Debug\ADT04.RootDSE.exe.config
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\bin\Debug\ADT04.RootDSE.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\bin\Debug\ADT04.RootDSE.pdb
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\obj\Debug\ADT04.RootDSE.csprojResolveAssemblyReference.cache
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\obj\Debug\ADT04.RootDSE.exe
+C:\RDAVSTS\ActiveDirectoryTools\src\ADT04.RootDSE\ADT04.RootDSE\obj\Debug\ADT04.RootDSE.pdb
