@@ -19,3 +19,4 @@ _ReSharper*
 /src/packages
 /src/*.scmp
 /src/TestResults
+/node_modules
